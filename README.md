@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **everything...**
 
-- 📝 I regularly write articles on [oskarkraemer.me (coming soon)](https://oskarkraemer.me)
+- 📝 I write articles on [Medium](https://medium.com/@oskarkraemer)
 
 - 📫 How to reach me **05262020@protonmail.com**
 
