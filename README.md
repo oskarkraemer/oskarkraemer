@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://realdolphin.itch.io/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/14803619?s=280&v=4" alt="realdolphin itch.io" height="40" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/oskarkraemer_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oskarkraemer_/" height="30" width="40" /></a>
 <a href="https://medium.com/@oskarkraemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oskarkraemer" height="30" width="40" /></a>
 </p>
