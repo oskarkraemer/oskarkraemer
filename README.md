@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Oskar Krämer</h1>
+<h3 align="center">A web developer from Germany</h3>
 
-<!--
-**oskarkraemer/oskarkraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, NextJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I write articles on [Medium](https://medium.com/@oskarkraemer)
+
+- 📫 How to reach me **krae0sk_765@outlook.de**
+
+- 📚 Full-stack, 🚲 Cycling, 🎸 Guitar, 
+
+<h3 align="left">Visit my portfolio:</h3>
+<p align="left">
+  🌐
+    <a href="oskarkraemer.me" target="_blank">oskarkraemer.me</a>
+</p>
