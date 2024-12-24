@@ -13,5 +13,5 @@
 <h3 align="left">Visit my portfolio:</h3>
 <p align="left">
   🌐
-    <a href="oskarkraemer.me" target="_blank">oskarkraemer.me</a>
+    <a href="https://oskarkraemer.me" target="_blank">oskarkraemer.me</a>
 </p>
